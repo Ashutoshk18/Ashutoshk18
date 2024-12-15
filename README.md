@@ -1,8 +1,8 @@
 <h1 align = "center">Hello Everyone👋, I am Ashutosh</h1>
 
 #Welcome to my GitHub Profile 👋
-- 👷 Currently pursuing B.Tech in Information Technology(2023-2025=7) from ABES Engineering College, Ghaziabad
-- 🔭 Schooled from PCM with Computer Applications stream from Delhi Government School
+- 👷 Currently pursuing B.Tech in Computer Science Engineering(2023-2027) at ABES Engineering College, Ghaziabad
+- 🔭 Schooled with PCM and Computer Applications stream from a Delhi Government School
 - 💬 Ask me about CP/Html/CSS/DSA/
 - 🌱 I’m currently learning Frontend/Backend Development/DSA/CP
 - 🤔 I’m looking for help with how to excel in Competitive Programming
